@@ -1,0 +1,6 @@
+[submodule "DotNetJsonConfig"]
+	path = DotNetJsonConfig
+	url = https://github.com/yolanother/DotNetJsonConfig
+[submodule "ConsoleControl"]
+	path = ConsoleControl
+	url = https://github.com/dwmkerr/consolecontrol
